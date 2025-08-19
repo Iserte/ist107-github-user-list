@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ist107-github-user-list/static/css/main.24716b93.css",
+    "main.js": "/ist107-github-user-list/static/js/main.fd43873c.js",
+    "index.html": "/ist107-github-user-list/index.html",
+    "main.24716b93.css.map": "/ist107-github-user-list/static/css/main.24716b93.css.map",
+    "main.fd43873c.js.map": "/ist107-github-user-list/static/js/main.fd43873c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24716b93.css",
+    "static/js/main.fd43873c.js"
+  ]
+}
